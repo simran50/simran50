@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=java,c,py,kotlin,js,react,nodejs,nextjs,spring,flask,express,nestjs" />
   </a> -->
   
-  [![My Skills](https://skillicons.dev/icons?i=java,c,py,kotlin,js,react,nodejs,nextjs,spring,flask,express,nestjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,py,kotlin,js,react,nodejs,nextjs,spring,flask,express,nestjs)]
 </p>
 
 
